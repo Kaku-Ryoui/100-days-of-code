@@ -3,7 +3,7 @@
 ### 1日目: 2021年03月25日（木）
 
 **今日の進捗:**
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ルーティンの自動化</p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1374807621425721347?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">再開<br>D1(今日からカウントということで)<br>・#100DaysOfCodeのルールを知る<br>・#100DaysOfCodeをgithubに記録<br>・生産性を上げる方法について模索<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1375042619915468811?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --テンプレ--
 
