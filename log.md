@@ -16,13 +16,17 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D3<br>・atcoder（char型文字列をtoCharArray()で配列化）<br>・iTunes（ｽｸﾛｰﾙすると文字が消えたり表示するバグ。①fontからSystem、Tahoma、Segoe UIを使っており、デフォで非表示の解除。②IE6であった文字消失バグはcssの背景widthを入れることで回避。③仮想メモリを増やす）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1375799353374220292?ref_src=twsrc%5Etfw">March 27, 2021</a></blockquote>
 
 
+### 4日目: 2021年03月28日（日）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">D4<br>・XOR　「＾」<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1376128210421702657?ref_src=twsrc%5Etfw">March 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --テンプレ--
 
 
 ### x日目: 2021年x月xx日（x）
 
-**今日の進捗:** 取り組んだ内容を書く。
+**今日の進捗:** ツイッターに記載した内容を取り込む。
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
