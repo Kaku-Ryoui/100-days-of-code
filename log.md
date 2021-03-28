@@ -19,14 +19,14 @@
 ### 4日目: 2021年03月28日（日）
 
 **今日の進捗:**
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">D4<br>・XOR　「＾」<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1376128210421702657?ref_src=twsrc%5Etfw">March 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">D4<br>・XOR　「＾」<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1376128210421702657?ref_src=twsrc%5Etfw">March 28, 2021</a></blockquote> 
 
 --テンプレ--
 
 
 ### x日目: 2021年x月xx日（x）
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。
+**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
