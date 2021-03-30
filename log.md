@@ -26,6 +26,11 @@
 **今日の進捗:** 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D5<br>・累乗の表記の仕方（①(long)Math.pow(double a, double n)②(long)1e18（10の18乗）③for文）<br>※適切なキャスト<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1376494317959663617?ref_src=twsrc%5Etfw">March 29, 2021</a></blockquote> 
 
+### 6日目: 2021年03月30日（火）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D6<br>・l[i]= l[i-1] + l[i-2];を<br>　c=l[i],a=l[i-1] ,b= l[i-2]とするなら<br>　for(int i;i&lt;n;i++){<br>　c=a;<br>　a=b;<br> b+=c;<br>　}で導き出せる。<br>・nとn+1の繰り返し比較はfor文自体をreverse<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1376911137237737473?ref_src=twsrc%5Etfw">March 30, 2021</a></blockquote>
+
 
 --テンプレ--
 
