@@ -30,6 +30,12 @@
 
 **今日の進捗:** 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D6<br>・l[i]= l[i-1] + l[i-2];を<br>　c=l[i],a=l[i-1] ,b= l[i-2]とするなら<br>　for(int i;i&lt;n;i++){<br>　c=a;<br>　a=b;<br> b+=c;<br>　}で導き出せる。<br>・nとn+1の繰り返し比較はfor文自体をreverse<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1376911137237737473?ref_src=twsrc%5Etfw">March 30, 2021</a></blockquote>
++IT業界について研究
+
+### 7日目: 2021年03月31日（水）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D7<br>・IT業界分析<br>・Arrays.fill(val, &#39;#&#39;);要素を一度に初期化<br>　（ボーダーで使用）<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1377273758482722823?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote>
 
 
 --テンプレ--
