@@ -37,6 +37,11 @@
 **今日の進捗:** 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D7<br>・IT業界分析<br>・Arrays.fill(val, &#39;#&#39;);要素を一度に初期化<br>　（ボーダーで使用）<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1377273758482722823?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote>
 
+### 8日目: 2021年04月01日（木）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D8<br>・longを超える桁数に関して<br>・BigIntegerクラスを用いる。<br>・import java.math.BigInteger;を忘れない。<br>・比較はcompareTo<br>・一応doubleでも計算可能（無限に小さい場合は無限小数などで誤差が生じるのでBigDecimalを用いたほうがいい）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1377583384700985344?ref_src=twsrc%5Etfw">April 1, 2021</a></blockquote>
+エッセンシャル思考、時間術大全について学ぶ
 
 --テンプレ--
 
