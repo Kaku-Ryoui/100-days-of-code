@@ -48,7 +48,10 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D9<br>・桁数ごとの足し算(sum、xは0で初期化)<br>for(int i = 0, i &lt;桁数;i++){<br>sum+=x%10<br>x/=10}<br>・MySQLインストール<br>・SQLの基本<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1378018734858666001?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote>
 
+### 10日目: 2021年04月03日（木）
 
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D10<br>・重複チェック(for文の二重ループ)<br>・MySQLインストール、基本操作<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1378320421687152646?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote> 
 
 --テンプレ--
 
