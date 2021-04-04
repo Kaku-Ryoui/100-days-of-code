@@ -53,6 +53,12 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D10<br>・重複チェック(for文の二重ループ)<br>・MySQLインストール、基本操作<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1378320421687152646?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote> 
 
+### 11日目: 2021年04月04日（金）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D11<br>・sqrt、誤差、丸めについて<br>・Atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1378669699202883584?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote> 
+一日の予定を組んでいなかったのが失敗。
+
 --テンプレ--
 
 
