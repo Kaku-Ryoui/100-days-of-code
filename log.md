@@ -59,6 +59,12 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D11<br>・sqrt、誤差、丸めについて<br>・Atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1378669699202883584?ref_src=twsrc%5Etfw">April 4, 2021</a></blockquote> 
 一日の予定を組んでいなかったのが失敗。
 
+### 12日目: 2021年04月05日（月）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D12<br>・Atcoder<br>・税率から元値計算<br>・全探索<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1379039342488813575?ref_src=twsrc%5Etfw">April 5, 2021</a></blockquote> 
+時間の確保が課題
+
 --テンプレ--
 
 
