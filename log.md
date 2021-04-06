@@ -65,6 +65,12 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D12<br>・Atcoder<br>・税率から元値計算<br>・全探索<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1379039342488813575?ref_src=twsrc%5Etfw">April 5, 2021</a></blockquote> 
 時間の確保が課題
 
+### 13日目: 2021年04月06日（火）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D13<br>・コンパイルエラーは構文がおかしい時に発生<br>・実行時エラーは構文におかしくなく実行時の例外処理。自分の場合、配列の指定でやらかすことが多い。<br>・SQLの条件式について<br>・カーソルが消えた時は日本語入力を行い削除したとき。日本語入力に戻せば回復<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1379422816907321344?ref_src=twsrc%5Etfw">April 6, 2021</a></blockquote> 
+
+
 --テンプレ--
 
 
