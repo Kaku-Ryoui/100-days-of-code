@@ -75,6 +75,10 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D14<br>・MySQL条件分岐<br>・文字列操作の復習<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1379810483008495618?ref_src=twsrc%5Etfw">April 7, 2021</a></blockquote>
 
+### 15日目: 2021年04月08日（木）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D15<br>・char→String型変換<br>・SQL復習<br>・atcoder<br>github的には1か月以上続いているから毎日の勉強が習慣づいてきた感じがする。これからは無理せず質を上げるように心がけよう。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1380079401019187202?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> 
 
 --テンプレ--
 
