@@ -80,6 +80,11 @@
 **今日の進捗:** 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D15<br>・char→String型変換<br>・SQL復習<br>・atcoder<br>github的には1か月以上続いているから毎日の勉強が習慣づいてきた感じがする。これからは無理せず質を上げるように心がけよう。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1380079401019187202?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> 
 
+### 16日目: 2021年04月09日（金）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D16<br>・(boolean a== boolean b) &amp;&amp; (boolean c == boolean d) ab、cdがtrueでa,b,c,dどれか1つでもfalseならfalse。<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1380580766480953345?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote>
+
 --テンプレ--
 
 
