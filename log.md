@@ -85,6 +85,12 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D16<br>・(boolean a== boolean b) &amp;&amp; (boolean c == boolean d) ab、cdがtrueでa,b,c,dどれか1つでもfalseならfalse。<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1380580766480953345?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote>
 
+### 17日目: 2021年04月10日（土）
+
+**今日の進捗:
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D17<br>・TreeMap復習<br>・Arrays.sort<br>・atcoder<br><br>昨日githubに上げる前に寝てしまったから途絶えてしまったorz<br>こまめに上げるか。。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/8XPuBFyKCB">pic.twitter.com/8XPuBFyKCB</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1380891827042017280?ref_src=twsrc%5Etfw">April 10, 2021</a></blockquote> 
+
+
 --テンプレ--
 
 
