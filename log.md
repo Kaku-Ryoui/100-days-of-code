@@ -99,6 +99,11 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D19<br>・SQL（グループ関数）<br>・動的計画法 (DP)<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1381641153993273347?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> 
 
+### 20日目: 2021年04月13日（火）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D20<br>・べき乗復習<br>・ソート<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1382268854982770689?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> 
+
+**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+
 
 --テンプレ--
 
