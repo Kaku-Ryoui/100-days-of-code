@@ -100,10 +100,19 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D19<br>・SQL（グループ関数）<br>・動的計画法 (DP)<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1381641153993273347?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> 
 
 ### 20日目: 2021年04月13日（火）
+
+**今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D20<br>・べき乗復習<br>・ソート<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1382268854982770689?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> 
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+### 21日目: 2021年04月14日（水）
 
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D21<br>・整数型の最大、最小（.MAX_VALUE,.MIN_VALUE）<br>・atcoder<br>abcのA-Cくらいなら答え見なくても解ける率が上がってきた気がする<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1382404510610386945?ref_src=twsrc%5Etfw">April 14, 2021</a></blockquote> 
+
+### 22日目: 2021年04月15日（木）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D22<br>・SQL(グループ関数)<br>・SQL(単一行関数)<br>・Javaクラス、継承復習<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1382722407329198082?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> 
 
 --テンプレ--
 
