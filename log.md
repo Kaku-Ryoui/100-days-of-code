@@ -114,6 +114,11 @@
 **今日の進捗:** 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D22<br>・SQL(グループ関数)<br>・SQL(単一行関数)<br>・Javaクラス、継承復習<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1382722407329198082?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> 
 
+### 23日目: 2021年04月16日（金）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D23<br>・基礎情報技術者試験の本、ウェブサイト、出題範囲を調べる<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1383184860567670784?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote>
+
 --テンプレ--
 
 
