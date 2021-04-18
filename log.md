@@ -124,6 +124,11 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D24<br>・Atcoderコンテスト<br>・DMMの割引を用いて書籍購入<br>以前より早く解けてるから成長を感じる！<br>まだまだすぎるけど<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1383584348222287883?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> 
 
+### 25日目: 2021年04月18日（日）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D25<br>・Atcoder<br>・SES1日体験ワークショップ<br>ワークショップ不安しかなかったけど、こういう時は得るものが多いな。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1383805533086355461?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> 
+
 --テンプレ--
 
 
