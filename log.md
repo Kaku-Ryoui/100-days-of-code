@@ -129,6 +129,11 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D25<br>・Atcoder<br>・SES1日体験ワークショップ<br>ワークショップ不安しかなかったけど、こういう時は得るものが多いな。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1383805533086355461?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> 
 
+### 26日目: 2021年04月19日（月）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D26<br>・Atcoder<br>・VBA（Application Undoの挙動確認）<br>エラーに捕まった。ある程度で見切りつけないと。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1384246429003091972?ref_src=twsrc%5Etfw">April 19, 2021</a></blockquote> 
+
 --テンプレ--
 
 
