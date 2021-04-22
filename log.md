@@ -135,9 +135,14 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D26<br>・Atcoder<br>・VBA（Application Undoの挙動確認）<br>エラーに捕まった。ある程度で見切りつけないと。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1384246429003091972?ref_src=twsrc%5Etfw">April 19, 2021</a></blockquote> 
 
 ### 27日目: 2021年04月20日（火）
+
+**今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D27<br>・Atcoder<br>・全探索が時間がかかりすぎる時の数学的アプローチ<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1384718250106232837?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote>
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+### 28日目: 2021年04月21日（木）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D28<br>・atcoder<br>・Dinic のアルゴリズム<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1385169006647201792?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote>
 
 --テンプレ--
 
