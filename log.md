@@ -155,9 +155,15 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D30<br>・atcoder<br>・ジムで筋トレ<br>久しぶりの筋トレでメンタル回復<br>前回の100DaysOfCodeチャレンジはこのへんで脱落したけど、今回は大丈夫そうだ。<br>30日目は鬼門。変化をつけて色々やっていくことも考えてやろう。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386265556861341696?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> 
 
 ### 31日目: 2021年04月24日（日）
+
+**今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D31<br>・atcoder<br>・全探索<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386374981332832256?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> 
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+### 32日目: 2021年x月xx日（x）
+
+**今日の進捗:** 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D32<br>・atcoder<br>・SQL結合<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386720133108797445?ref_src=twsrc%5Etfw">April 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --テンプレ--
 
