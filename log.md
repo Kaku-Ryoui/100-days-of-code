@@ -159,11 +159,18 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D31<br>・atcoder<br>・全探索<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386374981332832256?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> 
 
-### 32日目: 2021年x月xx日（x）
+### 32日目: 2021年04月25日（月）
 
 **今日の進捗:** 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D32<br>・atcoder<br>・SQL結合<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386720133108797445?ref_src=twsrc%5Etfw">April 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D32<br>・atcoder<br>・SQL結合<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386720133108797445?ref_src=twsrc%5Etfw">April 26, 2021</a></blockquote> 
+
+
+### x日目: 2021年04月26日（火）
+
+**今日の進捗:** 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D33<br>・atcoder<br>・オブジェクトの初期化(Arrays.setAll(array, i -&gt; new Object());)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1387315213146333184?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> 
 
 --テンプレ--
 
