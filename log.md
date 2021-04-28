@@ -166,7 +166,7 @@
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D32<br>・atcoder<br>・SQL結合<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386720133108797445?ref_src=twsrc%5Etfw">April 26, 2021</a></blockquote> 
 
 
-### x日目: 2021年04月26日（火）
+### 33日目: 2021年04月26日（火）
 
 **今日の進捗:** 
 
