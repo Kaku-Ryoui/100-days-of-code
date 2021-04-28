@@ -139,38 +139,44 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D27<br>・Atcoder<br>・全探索が時間がかかりすぎる時の数学的アプローチ<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1384718250106232837?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote>
 
-### 28日目: 2021年04月21日（木）
+### 28日目: 2021年04月21日（水）
 
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D28<br>・atcoder<br>・Dinic のアルゴリズム<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1385169006647201792?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote>
 
-### 29日目: 2021年04月22日（金）
+### 29日目: 2021年04月22日（木）
 
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D29<br>・atcoder<br>・CABテスト<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1385600753495023622?ref_src=twsrc%5Etfw">April 23, 2021</a></blockquote>
 
-### 30日目: 2021年04月23日（土）
+### 30日目: 2021年04月23日（金）
 
 **今日の進捗:** 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D30<br>・atcoder<br>・ジムで筋トレ<br>久しぶりの筋トレでメンタル回復<br>前回の100DaysOfCodeチャレンジはこのへんで脱落したけど、今回は大丈夫そうだ。<br>30日目は鬼門。変化をつけて色々やっていくことも考えてやろう。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386265556861341696?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> 
 
-### 31日目: 2021年04月24日（日）
+### 31日目: 2021年04月24日（土）
 
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D31<br>・atcoder<br>・全探索<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386374981332832256?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> 
 
-### 32日目: 2021年04月25日（月）
+### 32日目: 2021年04月25日（日）
 
 **今日の進捗:** 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D32<br>・atcoder<br>・SQL結合<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1386720133108797445?ref_src=twsrc%5Etfw">April 26, 2021</a></blockquote> 
 
 
-### 33日目: 2021年04月26日（火）
+### 33日目: 2021年04月26日（月）
 
 **今日の進捗:** 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D33<br>・atcoder<br>・オブジェクトの初期化(Arrays.setAll(array, i -&gt; new Object());)<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1387315213146333184?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote> 
+
+### 34日目: 2021年04月27日（火）
+
+**今日の進捗:** 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D34<br>・atcoder<br>・筋トレ（リングフィット）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1387328124463976451?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote>
 
 --テンプレ--
 
