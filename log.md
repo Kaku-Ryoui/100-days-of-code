@@ -178,6 +178,12 @@
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D34<br>・atcoder<br>・筋トレ（リングフィット）<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1387328124463976451?ref_src=twsrc%5Etfw">April 28, 2021</a></blockquote>
 
+### 35日目: 2021年04月28日（水）
+
+**今日の進捗:**
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D35<br>・atcoder<br>・String.formatについて<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1387736296295047168?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> 
+
 --テンプレ--
 
 
