@@ -191,9 +191,11 @@
 
 --テンプレ--
 
-\### x日目: 2021年x月xx日（x）
+<!--
+### x日目: 2021年x月xx日（x）
 
-\**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+-->
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
