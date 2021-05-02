@@ -189,6 +189,15 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D36<br>・atcoder<br>・大小比較はMath.max(min)だけでなく、Arrays.sort()でも可能<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1387873677635555329?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> 
 
+### 37日目: 2021年04月30日（金）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D37<br>・atcoder<br>・偶数×偶数=偶数<br>・奇数×偶数=偶数を求める場合、<br>・ 奇数×奇数=奇数 全てのパターンからこれだけを除外すると考える<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1388744083431051264?ref_src=twsrc%5Etfw">May 2, 2021</a></blockquote> 
+
+### 38日目: 2021年05月01日（土）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D38<br>・atcoder<br>・TreeMapなのでキーが数値の場合は小さい順に要素が保持<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1388744832185634817?ref_src=twsrc%5Etfw">May 2, 2021</a></blockquote> 
 
 <!--
 --テンプレ--
