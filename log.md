@@ -204,6 +204,12 @@
 **今日の進捗:** 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">D39<br>・atcoder<br>・Boot camp for Beginners easy100終了<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1389027304999821315?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote>
 
+### 40日目: 2021年05月03日（月）
+
+**今日の進捗:** 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D40<br>・atcoder<br>・「a[a[a[i]]]」のような繰り返し「tmp = a[tmp - 1];」のように行う<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1389264261415768072?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote>
+
 <!--
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
