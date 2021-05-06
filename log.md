@@ -217,7 +217,8 @@
 
 ### 42日目: 2021年05月05日（水）
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D42<br>・atcoder<br>・コード写経<br>めちゃくちゃ写経して得たもの<br>・テキストエディタ（Atom）に入力際、ショートカットの発見（pl→System.out.println）<br>・入力速度の向上<br>・ユニークAC（まだACしたことがない問題）ではなくなってしまうからLongest Streakが切れてしまう可能性が増す<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1390253470104522758?ref_src=twsrc%5Etfw">May 6, 2021</a></blockquote> 
 
 <!--
 --テンプレ--
