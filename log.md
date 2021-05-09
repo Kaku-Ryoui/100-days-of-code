@@ -225,6 +225,16 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D43<br>・桁数ごとの計算<br>・Java体系的な復習<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1390679585214193670?ref_src=twsrc%5Etfw">May 7, 2021</a></blockquote> 
 
+### 44日目: 2021年05月07日（金）
+
+**今日の進捗:** 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D44<br>・C問<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1391339751219757059?ref_src=twsrc%5Etfw">May 9, 2021</a></blockquote>
+
+### 45日目: 2021年05月08日（土）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D45<br>・Springについて<br>・京セラabcコン<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1391340303647453185?ref_src=twsrc%5Etfw">May 9, 2021</a></blockquote> 
+
 <!--
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
