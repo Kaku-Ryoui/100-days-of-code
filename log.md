@@ -235,6 +235,11 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D45<br>・Springについて<br>・京セラabcコン<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1391340303647453185?ref_src=twsrc%5Etfw">May 9, 2021</a></blockquote> 
 
+### 46日目: 2021年05月09日（日）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D46<br>・n回繰り返すfor文を３つ使う時、条件を見直す<br>・sc.nextInt()よりInteger.parseInt(<a href="https://t.co/H06gASyN9Y">https://t.co/H06gASyN9Y</a>());の方が圧倒的に早い<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1391765642898853890?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote>
+
 <!--
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
