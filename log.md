@@ -240,6 +240,11 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D46<br>・n回繰り返すfor文を３つ使う時、条件を見直す<br>・sc.nextInt()よりInteger.parseInt(<a href="https://t.co/H06gASyN9Y">https://t.co/H06gASyN9Y</a>());の方が圧倒的に早い<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1391765642898853890?ref_src=twsrc%5Etfw">May 10, 2021</a></blockquote>
 
+### 47日目: 2021年05月10日（月）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D47<br>・転職活動再開<br>・時刻計算（DateTimeFormatter.ofPattern）<br>・正規表現について（慣れない）<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1392284545701974024?ref_src=twsrc%5Etfw">May 12, 2021</a></blockquote>
+
 <!--
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
