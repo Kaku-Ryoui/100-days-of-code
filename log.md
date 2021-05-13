@@ -250,20 +250,26 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D48<br>・Math.ceilの挙動<br>Math.ceil(1.0/2.0)　//0.5が切りあがり1.0<br>Math.ceil(1/2)　//内部がintで切り捨てられるから0.0<br>・paiza　B問題<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1392713979743543300?ref_src=twsrc%5Etfw">May 13, 2021</a></blockquote>
 
-<!--
 ### 49日目: 2021年05月12日（水）
 
 **今日の進捗:**
-D49
-・最小公倍数lcm
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D49<br>・最小公倍数lcmの求め方<br>・paiza　B問題<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1392954705836347392?ref_src=twsrc%5Etfw">May 13, 2021</a></blockquote> 
+
+<!--
 
 ### 50日目: 2021年05月13日（水）
 
 **今日の進捗:**
 D50
 ・最大公約数gcd
+・atcoder
 
+### 51日目: 2021年05月14日（木）
 
+**今日の進捗:**
+D51
+・花をやる問題
+・
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
