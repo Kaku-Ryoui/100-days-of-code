@@ -255,24 +255,33 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D49<br>・最小公倍数lcmの求め方<br>・paiza　B問題<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1392954705836347392?ref_src=twsrc%5Etfw">May 13, 2021</a></blockquote> 
 
-### 50日目: 2021年05月13日（水）
+### 50日目: 2021年05月13日（木）
 
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D50<br>・最大公約数gcd<br>・ユークリッドの互除法<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1393395612733739016?ref_src=twsrc%5Etfw">May 15, 2021</a></blockquote>
 
-<!--
-### 51日目: 2021年05月14日（木）
+### 51日目: 2021年05月14日（金）
 
 **今日の進捗:**
-D51
-・花をやる問題
-・
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D51<br>・花やり問題<br>・転職活動<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1393885520950751233?ref_src=twsrc%5Etfw">May 16, 2021</a></blockquote> 
 
-### 52日目: 2021年05月15日（金）
-D52
-・問題によってはArrays.sortの比較でも計算量を減らすことが可能
+
+<!--
+
+### 52日目: 2021年05月15日（土）
 
 **今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+D52
+・問題によってはArrays.sortの比較でも計算量を減らすことが可能
+・atcoder
+
+
+### 53日目: 2021年05月16日（日）
+
+**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+D53
+・atcoder
+
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
