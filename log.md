@@ -275,29 +275,33 @@
 **今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D53<br>・転職活動<br>・時間問題<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1395014076305002496?ref_src=twsrc%5Etfw">May 19, 2021</a></blockquote> 
 
-<!--
-
 ### 54日目: 2021年05月17日（月）
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
-D54
-・転職活動
-・atcoder
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D54<br>・転職活動<br>・paizaマス系移動問題<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1395370436574076929?ref_src=twsrc%5Etfw">May 20, 2021</a></blockquote> 
+
+<!--
 
 ### 55日目: 2021年05月18日（火）
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+**今日の進捗:**
 D55
 ・転職活動
 ・atcoder
 
 ### 56日目: 2021年05月19日（水）
 
-**今日の進捗:** ツイッターに記載した内容を取り込む。script以下を削除
+**今日の進捗:**
 D56
 ・転職活動
 ・atcoder
 
+### 57日目: 2021年05月20日（木）
+
+**今日の進捗:**
+D57
+・転職活動
+・atcoder
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
