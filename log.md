@@ -285,6 +285,20 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D55 - 60<br>・転職活動<br>・エラー処理<br>・paiza(B問題)<br>・atcoder<br><br>最近、茶、緑問題ばっかり解いてるから成長感じなかったけど、paiza(B問題)を久々にやったらいけそうな手ごたえ。二次元配列に慣れたらいけそう<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1396568236091535361?ref_src=twsrc%5Etfw">May 23, 2021</a>
 
+### 61日目: 2021年05月24日（月）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D61<br>・転職活動<br>・paizaBクリア<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1397391776416100354?ref_src=twsrc%5Etfw">May 26, 2021</a></blockquote>
+
+### 62日目: 2021年05月25日（火）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D62<br>・転職活動<br>・atcoder<br>AtCoderProblemsを介さなかったせいかUniqueACじゃなくてCurrent Streakが途切れてしまった。68日だった。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1397596685828706307?ref_src=twsrc%5Etfw">May 26, 2021</a></blockquote> 
+
+### 63日目: 2021年05月26日（水）
+
+**今日の進捗:**
+・正規表現復習
 
 <!--
 --テンプレ--
