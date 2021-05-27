@@ -298,7 +298,7 @@
 ### 63日目: 2021年05月26日（水）
 
 **今日の進捗:**
-・正規表現復習
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D63<br>・転職活動<br>・正規表現復習<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1397888379581259777?ref_src=twsrc%5Etfw">May 27, 2021</a></blockquote>
 
 <!--
 ### 64日目: 2021年05月27日（木）
