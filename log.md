@@ -301,12 +301,28 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D63<br>・転職活動<br>・正規表現復習<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1397888379581259777?ref_src=twsrc%5Etfw">May 27, 2021</a></blockquote>
 
-<!--
 ### 64日目: 2021年05月27日（木）
 
 **今日の進捗:**
-・「overflow:hidden;」スクロールバーの非表示
-・「overflow-y:scroll;」y方向スクロール可能
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D64<br>・転職活動<br>・「overflow:hidden;」スクロールバーの非表示<br>・「overflow-y:scroll;」y方向スクロール可能<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1398288275773681664?ref_src=twsrc%5Etfw">May 28, 2021</a></blockquote> 
+
+### 65日目: 2021年05月28日（金）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D65<br>・転職活動<br>・シフト演算について<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1398952455866515457?ref_src=twsrc%5Etfw">May 30, 2021</a></blockquote> 
+
+
+<!--
+### 66日目: 2021年05月29日（土）
+
+**今日の進捗:**
+
+
+
+### 67日目: 2021年05月30日（日）
+
+**今日の進捗:**
+・ラムダ式
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
