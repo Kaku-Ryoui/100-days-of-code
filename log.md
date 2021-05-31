@@ -311,15 +311,19 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D65<br>・転職活動<br>・シフト演算について<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1398952455866515457?ref_src=twsrc%5Etfw">May 30, 2021</a></blockquote> 
 
-
-<!--
 ### 66日目: 2021年05月29日（土）
 
 **今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D66<br>・転職活動<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1399380754237321226?ref_src=twsrc%5Etfw">May 31, 2021</a></blockquote>
 
-
+<!--
 
 ### 67日目: 2021年05月30日（日）
+
+**今日の進捗:**
+・ラムダ式
+
+### 68日目: 2021年05月31日（月）
 
 **今日の進捗:**
 ・ラムダ式
