@@ -326,8 +326,13 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D68-69<br>・転職活動<br>・atcoder<br>応募した面接はすべて終了<br>就活を経て色々学びがあったのでレポート作成中<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java（転職活動中） (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1400057122713309189?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> 
 
+### 70日目: 2021年06月02日（水）-2021年06月05日（水）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D70-73<br>・転職レポート作成<br>・atcoder<br>ここ数日、色々あって時間の流れが速い。怖い<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1401368334319247364?ref_src=twsrc%5Etfw">June 6, 2021</a>
+
 <!--
-### 69日目: 2021年06月02日（水）
+### 74日目: 2021年06月06日（水）
 
 **今日の進捗:**
 
