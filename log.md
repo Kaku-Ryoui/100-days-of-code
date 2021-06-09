@@ -336,11 +336,24 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D74<br>・atcoder<br>・スッキリわかるJava入門<br>→積み本状態だったから消化していこう。<br>・友達の人生相談<br>→周りがそれぞれで人生左右されることになってて転機なんだなと実感。<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1401914953863352334?ref_src=twsrc%5Etfw">June 7, 2021</a></blockquote> 
 
-<!--
-
-### 74日目: 2021年06月06日（水）
+### 75日目: 2021年06月07日（月）
 
 **今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D75<br>・スッキリわかるJava入門<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1402580451328282626?ref_src=twsrc%5Etfw">June 9, 2021</a></blockquote> 
+
+<!--
+
+### 76日目: 2021年06月08日（火）
+
+**今日の進捗:**
+スッキリわかる
+atcoder
+
+### 77日目: 2021年06月09日（水）
+
+**今日の進捗:**
+スッキリわかる
+atcoder
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
