@@ -329,7 +329,7 @@
 ### 70日目: 2021年06月02日（水）-2021年06月05日（土）
 
 **今日の進捗:**
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D70-73<br>・転職レポート作成<br>・atcoder<br>ここ数日、色々あって時間の流れが速い。怖い<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1401368334319247364?ref_src=twsrc%5Etfw">June 6, 2021</a>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D70-73<br>・転職レポート作成<br>・atcoder<br>ここ数日、色々あって時間の流れが速い。怖い<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1401368334319247364?ref_src=twsrc%5Etfw">June 6, 2021</a></blockquote> 
 
 ### 74日目: 2021年06月06日（日）
 
@@ -341,19 +341,29 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D75<br>・スッキリわかるJava入門<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1402580451328282626?ref_src=twsrc%5Etfw">June 9, 2021</a></blockquote> 
 
-<!--
-
 ### 76日目: 2021年06月08日（火）
 
 **今日の進捗:**
-スッキリわかる
-atcoder
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D76<br>・スッキリわかるJava入門<br>1章あたり大体2時間くらいか<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1403042614392197120?ref_src=twsrc%5Etfw">June 10, 2021</a></blockquote> 
 
-### 77日目: 2021年06月09日（水）
+<!--
+
+### 77日目: 2021年06月09日（火）
 
 **今日の進捗:**
 スッキリわかる
 atcoder
+
+### 78日目: 2021年06月10日（水）
+
+**今日の進捗:**
+スッキリわかる（1部完）
+
+### 79日目: 2021年06月11日（木）
+
+**今日の進捗:**
+マスの見渡し問題
+
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
