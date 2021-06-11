@@ -346,13 +346,12 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D76<br>・スッキリわかるJava入門<br>1章あたり大体2時間くらいか<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1403042614392197120?ref_src=twsrc%5Etfw">June 10, 2021</a></blockquote> 
 
-<!--
-
 ### 77日目: 2021年06月09日（火）
 
 **今日の進捗:**
-スッキリわかる
-atcoder
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D77<br>・スッキリわかるJava入門<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1403405041738784773?ref_src=twsrc%5Etfw">June 11, 2021</a></blockquote> 
+
+<!--
 
 ### 78日目: 2021年06月10日（水）
 
@@ -363,7 +362,10 @@ atcoder
 
 **今日の進捗:**
 マスの見渡し問題
-
+スッキリわかる
+電子書籍のタイトルにつられて読み始めたら750ページもあって辟易としたけど
+読んでみたら、よくある疑問や何故これをやらなくちゃいけないのかが、しっかり説明されていて
+今までモヤっとしてた部分が解消された。皆が勧めるだけあるね。良書。
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
