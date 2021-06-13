@@ -351,12 +351,13 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D77<br>・スッキリわかるJava入門<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1403405041738784773?ref_src=twsrc%5Etfw">June 11, 2021</a></blockquote> 
 
-<!--
 
 ### 78日目: 2021年06月10日（水）
 
 **今日の進捗:**
-スッキリわかる（1部完）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D78<br>・スッキリわかる（1部完）<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1404039086864691204?ref_src=twsrc%5Etfw">June 13, 2021</a></blockquote> 
+
+<!--
 
 ### 79日目: 2021年06月11日（木）
 
@@ -366,6 +367,23 @@
 電子書籍のタイトルにつられて読み始めたら750ページもあって辟易としたけど
 読んでみたら、よくある疑問や何故これをやらなくちゃいけないのかが、しっかり説明されていて
 今までモヤっとしてた部分が解消された。皆が勧めるだけあるね。良書。
+
+
+### 80日目: 2021年06月12日（金）
+
+**今日の進捗:**
+すっきり
+
+### 81日目: 2021年06月13日（土）
+
+**今日の進捗:**
+すっきり読む
+
+### 82日目: 2021年06月14日（日）
+
+**今日の進捗:**
+atcoder
+
 
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
