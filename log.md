@@ -357,6 +357,10 @@
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D78<br>・スッキリわかる（1部完）<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1404039086864691204?ref_src=twsrc%5Etfw">June 13, 2021</a></blockquote> 
 
+### 79日目: 2021年06月11日（木）- 85日目: 2021年06月17日（水）
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D79 - 85<br>・スッキリわかる<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1405640295585247236?ref_src=twsrc%5Etfw">June 17, 2021</a></blockquote> 
+
+
 <!--
 
 ### 79日目: 2021年06月11日（木）
@@ -380,6 +384,21 @@
 すっきり読む
 
 ### 82日目: 2021年06月14日（日）
+
+**今日の進捗:**
+atcoder
+
+### 83日目: 2021年06月15日（月）
+
+**今日の進捗:**
+atcoder
+
+### 84日目: 2021年06月16日（火）
+
+**今日の進捗:**
+atcoder
+
+### 
 
 **今日の進捗:**
 atcoder
