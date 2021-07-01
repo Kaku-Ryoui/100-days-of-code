@@ -366,6 +366,10 @@
 ### 92日目: 2021年06月24日（木）- 98日目: 2021年06月30日（水）
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D92 - 98<br>・いままでの総おさらい<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1410236218151895043?ref_src=twsrc%5Etfw">June 30, 2021</a></blockquote> 
 
+### 99日目: 2021年07月01日（木）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D99<br>・すっきりわかるJava入門（読み終える）<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1410602722991099918?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote>
 <!--
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
