@@ -370,6 +370,12 @@
 
 **今日の進捗:**
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D99<br>・すっきりわかるJava入門（読み終える）<br>・atcoder<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1410602722991099918?ref_src=twsrc%5Etfw">July 1, 2021</a></blockquote>
+
+### 100日目: 2021年07月02日（金）
+
+**今日の進捗:**
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">D100<br>・atcoder<br>・資格勉強<br>100DaysOfCode達成！<br>どんなに疲れててもコード触る癖と学習の土台は身についた。<br><br>基本情報は丁度100日後か。<br>二週目チャレンジしよう<a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a></p>&mdash; kkRyoi@java (@kkRyoi) <a href="https://twitter.com/kkRyoi/status/1410980113336836101?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote>
+
 <!--
 --テンプレ--
 ### x日目: 2021年x月xx日（x）
